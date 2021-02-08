@@ -1,2 +1,2 @@
 # Project_steps
-Progress steps using JavaScript
+https://limit1355.github.io/Project_steps/
